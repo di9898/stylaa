@@ -1382,6 +1382,7 @@ textarea, input[type="text"]:focus {
     background: #000;
     width: 30px;
     height: 30px;
+    display: none;
     text-align: center;
 }
 .sallon-top {
